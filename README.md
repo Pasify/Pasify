@@ -8,7 +8,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ifesinachi--obiora-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifesinachi-obiora-b62b7a216)](https://www.linkedin.com/in/ifesinachi-obiora-b62b7a216)
 [![Twitter Badge](https://img.shields.io/badge/-@paschalobiora_-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/paschalobiora_)](https://x.com/paschalobiora_)
 [![Instagram Badge](https://img.shields.io/badge/-@paskkal.io-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/paskkal.io/)](https://www.instagram.com/paskkal.io/)
-[![CodeSandbox Badge](https://img.shields.io/badge/pasify-CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white&link=https://codesandbox.io/u/pasify)](https://codesandbox.io/u/pasify)
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
