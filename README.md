@@ -58,8 +58,5 @@ I'm a Front-End developer, passionate about sharing insights on web development 
 
 ![](https://github-readme-stats.vercel.app/api?username=pasify&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasify&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pasify&theme=codeSTACKr&hide_border=false)
-
-
 
 [![](https://visitcount.itsvg.in/api?id=pasify&icon=3&color=13)](https://visitcount.itsvg.in)
