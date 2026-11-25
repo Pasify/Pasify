@@ -2,21 +2,21 @@
 
 ## You've found my creative code haven! 🎨💻
 
-[![Website Badge](https://img.shields.io/badge/pasify.github.io-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://pasify.github.io)](https://pasify.github.io)
+[![Website Badge](https://img.shields.io/badge/ife--obi.vercel.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://ife-obi.vercel.app)](https://ife-obi.vercel.app)
 [![Linkedin Badge](https://img.shields.io/badge/-ifesinachi--obiora-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifesinachi-obiora-b62b7a216)](https://www.linkedin.com/in/ifesinachi-obiora-b62b7a216)
 [![Twitter Badge](https://img.shields.io/badge/-@paschalobiora_-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/paschalobiora_)](https://x.com/paschalobiora_)
 [![Instagram Badge](https://img.shields.io/badge/-@paskkal.io-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/paskkal.io/)](https://www.instagram.com/paskkal.io/)
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a Front-End developer, passionate about sharing insights on web development and always striving to merge creativity with functionality in the digital space. 🚀🌐
+I'm a software developer building full-stack products with React, React Native and Node.js, always striving to merge creativity with functionality in the digital space. 🚀🌐
 
 ### About Me
 
 - 😊 Pronouns: He/him.
 
 - I’m all about creating beautiful, user-friendly digital experiences. Always learning and working collaboratively — let’s build something amazing together! ✨
-- 💡 Fun fact: I'm not just good, I'm game-changing. Fueled by passion, dedication, and a relentless drive to elevate my craft. 🔥🔥.
+- 💡 I build web and mobile applications with React, React Native and Node.js.
 
 ### 💻 Tech Stack:
 
@@ -45,11 +45,11 @@ I'm a Front-End developer, passionate about sharing insights on web development 
 ### Seeking Opportunities
 
 - 😊 I'm eager to connect for hackathons, internships, and entry-level positions.
-- 💼 Open to roles like Software Engineer, Front-End Engineer, and Mobile Application Development (Intern, Junior, or Mid-Level).
+- 💼 Open to Junior/Graduate Software Engineer, Front-End Engineer, and Mobile Application Development roles.
 
 ### Get in Touch
 
-- 📫 visit my [website 🌐](https://pasify.github.io).
+- 📫 visit my [website 🌐](https://ife-obi.vercel.app).
 - 📧 Send a direct mail to [ifesinachiobiora73@gmail.com](mailto:ifesinachiobiora73@gmail.com). Let's connect! 🚀
 
 ### Github stats
