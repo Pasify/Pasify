@@ -7,16 +7,17 @@
 [![Twitter Badge](https://img.shields.io/badge/-@paschalobiora_-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/paschalobiora_)](https://x.com/paschalobiora_)
 [![Instagram Badge](https://img.shields.io/badge/-@paskkal.io-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/paskkal.io/)](https://www.instagram.com/paskkal.io/)
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 I'm a software developer building full-stack products with React, React Native and Node.js, always striving to merge creativity with functionality in the digital space. 🚀🌐
+
+### Featured Projects
+
+- 🌐 **[ife-obi](https://github.com/Pasify/ife-obi)** - my personal portfolio, designed and built with Next.js, React, TypeScript and Tailwind CSS. Live at [ife-obi.vercel.app](https://ife-obi.vercel.app).
 
 ### About Me
 
 - 😊 Pronouns: He/him.
 
 - I’m all about creating beautiful, user-friendly digital experiences. Always learning and working collaboratively — let’s build something amazing together! ✨
-- 💡 I build web and mobile applications with React, React Native and Node.js.
 
 ### 💻 Tech Stack:
 
@@ -40,7 +41,7 @@ I'm a software developer building full-stack products with React, React Native a
 
   ***
 
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Seeking Opportunities
 
@@ -52,9 +53,6 @@ I'm a software developer building full-stack products with React, React Native a
 - 📫 visit my [website 🌐](https://ife-obi.vercel.app).
 - 📧 Send a direct mail to [ifesinachiobiora73@gmail.com](mailto:ifesinachiobiora73@gmail.com). Let's connect! 🚀
 
-### Github stats
+### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=pasify&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasify&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=pasify&icon=3&color=13)](https://visitcount.itsvg.in)
